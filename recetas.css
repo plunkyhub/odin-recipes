@@ -33,3 +33,15 @@ img {
 h2, h3, p, li {
     font-size: 150%;
 }
+span {
+    margin-left: 70px;
+}
+span > a {
+    color: rgb(59, 59, 59);
+    text-decoration: none;
+}
+span > a:hover {
+    text-shadow: 5px 5px 20px rgba(0, 0, 0, 0.9);
+    transform: scale(50%);
+    text-decoration: none;
+}
