@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Ubuntu&display=swap');
+
+* {
+    box-sizing: border-box; 
+    padding: 0;
+    margin: 0;
+}
+body {
+    margin: 0 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    text-align: center;
+    border-top: 2px solid orange;
+    border-bottom: 2px solid orange;
+    border-radius: 50% 20%;
+    font-family: "Dancing Script", cursive;
+    color: rgb(59, 59, 59);
+}
