@@ -37,3 +37,7 @@ li {
     max-width: 400px;
     min-width: 250px;
 }
+li:hover {
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.24);
+    transform: translateY(-2%);
+}
